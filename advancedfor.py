@@ -14,3 +14,6 @@ for n in range(3,50,3):
 print(mylist)
 
 print([x for x in range(1,51) if x%3==0])
+
+
+print('vighnesh is bad boy')
