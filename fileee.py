@@ -1,0 +1,7 @@
+myfile=open('myfile.txt')
+# myfile2=open(r'c:/Users/lenovo R3/Desktop/gitlearning.txt')
+myfile2=open('c:/Users/lenovo R3/Desktop/gitlearning.txt')
+print(myfile2.read())
+print('vighnesh')
+myfile2.seek(0)
+print(myfile2.read())
